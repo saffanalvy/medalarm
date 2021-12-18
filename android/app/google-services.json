@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983115232209",
+    "project_id": "medalarm-7709f",
+    "storage_bucket": "medalarm-7709f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983115232209:android:30d8e7e85b8d5f101f66f0",
+        "android_client_info": {
+          "package_name": "com.example.medalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983115232209-og997a8kdtofie7sus1jidmk3odharrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnCyEP-oQH-mngdYppMgPFhUj6vKYkdm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983115232209-og997a8kdtofie7sus1jidmk3odharrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
